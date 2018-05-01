@@ -1,3 +1,6 @@
 # IntelliJ IDEA
 .idea/
 react-native-sandbox.iml
+
+# npm
+node_modules/
